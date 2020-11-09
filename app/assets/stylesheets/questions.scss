@@ -1,3 +1,11 @@
 // Place all the styles related to the questions controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+$yellow_background: #FEFFE1;
+
+ p2 {
+   background-color: $yellow_background; // Using this variable
+   border-left-style: solid;
+   padding-left: 4px;
+ }
